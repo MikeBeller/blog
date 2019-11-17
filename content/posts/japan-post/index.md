@@ -1,6 +1,7 @@
 ---
 title: "Japan!"
 date: 2019-11-16T06:46:11-05:00
+featured_image: "/images/fuji-mountains.jpg"
 draft: false
 #toc: true
 ---
@@ -23,10 +24,32 @@ As it was nearly midnight on Saturday night, we just went to our hotel
 (the Century Southern Tier, located conveniently at the Shinjuku
 train station), and went to sleep.
 
-### Sunday 10/27
-* Senso-Ji (Shinto) shrine. Crowded market plaza and big shrine. 
-* Akihabara — conveyor belt sushi. Was great!
-* Walking tour of Akihabara: AKB48, “Otaku” (geek) culture, MaidCafe, Confucian temple, Shinto shrine (great ice cream), Ueno. Hiroshi was very informative and entertaining. 
+### Sunday October 27
+
+Our first stop that morning was the Senso-Ji Buddhist temple in the Asakusa
+neighborhood.  We will talk about shrines and temples a lot, so here is a helpful
+guide.  Japanese people seem to be mostly observing both Buddhist and Shinto
+traditions.  There are many Buddhist temples (indicated by -Ji in the name)
+and many Shinto shrines (indicated by -Jinju in the name).  Many Japanese go
+to both, usually for different types of life events.  
+
+![senso-ji](senso-ji.jpg)
+
+Then we headed over to the Akihabara neighborhood (the electronics and Manga capital
+of Tokyo) for a free walking tour of the area.  On the way we stopped for "conveyor
+belt sushi".  It cost like $20 for the 2 of us and was some of the best sushi I ever
+remember having!
+
+Our tour with Hiroshi (the company: Tokyo Localized) was great.  And he was so entertaining
+and informative.  We learned about the general background/history of Japan -- including
+the Edo period (isolationist Shogunate 1603-1860's) and the Meiji restoration (1668-).
+This also explained the importance of Kyoto (emperor's capital) and Tokyo (more the
+Shogunate's capital).  We also learned about more modern stuff, like the origin of
+Akihabara's connection to electronics -- US GI's selling old radio parts post war --
+and modern cultural phenomena like "Otaku" (manga geek) culture, and the reality-show
+no it's-a-girl-band AK48.  Meanwhile we say a Shinto shrine, a Confucian temple in Ueno,
+and had some amazing soft serve ice cream.
+
 
 ### Monday 10/28
 * Walking tour Tokyo Localized by Emi of Meiji-jingu and Harajuku. Started with Meiji shrine — in a beautiful tree lined setting. Then Takeshita Street — crazy street lined with sweet food and cute stuff and some goth for Japanese teen girls — kind of crazy. Then Yoyogi Park for a few minutes.
