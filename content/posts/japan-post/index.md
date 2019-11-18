@@ -42,30 +42,50 @@ remember having!
 
 Our tour with Hiroshi (the company: Tokyo Localized) was great.  And he was so entertaining
 and informative.  We learned about the general background/history of Japan -- including
-the Edo period (isolationist Shogunate 1603-1860's) and the Meiji restoration (1668-).
-This also explained the importance of Kyoto (emperor's capital) and Tokyo (more the
+the Edo period (isolationist Shogunate 1603-1860's) and the Meiji restoration (1868-).
+This put in context the importance of Kyoto (emperor's capital) and Tokyo (more the
 Shogunate's capital).  We also learned about more modern stuff, like the origin of
 Akihabara's connection to electronics -- US GI's selling old radio parts post war --
-and modern cultural phenomena like "Otaku" (manga geek) culture, and the reality-show
-no it's-a-girl-band AK48.  Meanwhile we say a Shinto shrine, a Confucian temple in Ueno,
-and had some amazing soft serve ice cream.
+and modern cultural phenomena like Maid Cafe's (cafes where the waitresses call you
+"master" -- weird), "Otaku" (manga geek) culture, and AKB48 -- the girl band which is more like
+a reality show  Meanwhile we also saw a Shinto shrine (Kanda Myoujin), a Confucian temple,
+had some amazing soft serve ice cream, and ended the tour at the statue of the Last Samaurai,
+in Ueno park.  I would highly recommend this tour and the tourguide, too!
 
+### Monday October 28
 
-### Monday 10/28
-* Walking tour Tokyo Localized by Emi of Meiji-jingu and Harajuku. Started with Meiji shrine — in a beautiful tree lined setting. Then Takeshita Street — crazy street lined with sweet food and cute stuff and some goth for Japanese teen girls — kind of crazy. Then Yoyogi Park for a few minutes.
-* Then traditional coffee house Chatei Haitou — amazing coffee!! ( he used Kalita with three holes and Melita filters)
-* Shibuya crossing— amazing!
-* Shibuya Hikarie department store/ mall. 
-* Walked home back thru Meiji Jingu and parts of Shibuya. 
-* Udon Shin noodles for dinner in this tiny shop in Shibuya
-* Went back to Tokyu Hands store. Many floors, one dedicated just to crafts!
+We started our day with a walking tour of Meiji-Jinju and Harajuku, led by Emi of
+Tokyo Localized (again).  Started with Meiji shrine — in a beautiful tree lined setting.
+Then Takeshita Street — crazy street lined with sweet food and cute stuff and some goth 
+all seemingly targeted towards Japanese teen girls — kind of crazy. Then Yoyogi Park for
+just a few minutes. 
 
-### Tuesday 10/29
-* Went to meet artist Kazuko Shihashi. She showed us her art and performed a tea ceremony— very beautiful!  
-* Went to borderless labs art exhibit. Very cool.
-* Had sushi in “Shinjuku Times Square” building and then checked out the coffee stuff at Tokyu Hands below it
+After the tour, we headed over to the traditional coffee house Chatei Haitou.  Absolutely
+amazing coffee!! He used a Kalita Wave, by the way.  Probably the best pourover I've ever
+had.
 
-###  Wednesday 10/30
+From there we waked around the Shibuya area -- saw Shibuya Crossing, an amazing 5-way
+intersection with waves of people crossing each light.  Next to Shibuya Hikarie department
+store.  Then walked back to our hotel via Yoyogi Park / Meiji Jinju.
+
+Dinner at "Udon Shin", a tiny udon place in the back streets of Shibuya.  You order before
+you even get seated.  A great cheap dinner!
+
+That evening we walked over to Tokyu Hands, a multi floor department store with one
+floor dedicated just to crafts and home projects!
+
+### Tuesday October 29
+
+First thing, we went to meet with artist Kazuko Shihashi.  We had been introduced to her work
+by Ali Hacket's friend Kamala in London.  We met her, her daughter, and a man who was teaching
+her to perform tea ceremonies.  After viewing her work she actually performed a ceremony for us.
+It was very beautiful!!
+
+Next stop was the "Borderless Labs" interactive art exhibit.  Very cool walk-through-it art.  Back
+home to the hotel and had sushi on the restaurant floor of "Shinjuku Times Square".
+
+###  Wednesday October 30
+
 * Visited the East Gardens of the Imperial Palace grounds. Afterwards up to the Lawn with the small village being built specifically for a ceremony for the new emperor (!!)
 * Then to Ginza and Ginza crossing. Itōya — a 12 floor stationery store!  Bought some cards and had lunch at cafe on top floor. 
 * Cafe de l’ambre — OG coffee shop of Tokyo. Aged beans (!). Coffee much smaller than Chatei Hatou and much more cramped and rushed. Coffee was also better at CH. 
