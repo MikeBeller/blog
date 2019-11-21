@@ -134,7 +134,7 @@ This wrapped up Tokyo for us.  A great ending to an amazing 5 days.
 
 The next phase of our trip was much more rural!
 
-### Thursday 10/31
+### Thursday October 31
 
 On Thursday morning we got on a JR "Shinkansen" (bullet train) and headed to
 Odawara station.  Almost didn't get off in time!  Thence to a local train to
@@ -152,44 +152,114 @@ We "dressed for dinner".  We had a private room in the restaurant, and had a
 multi-course (12 courses?) traditional "Kaiseki" meal.  They were very careful
 about our dietary restrictions -- and we could eat absolutely everything!
 
-### Friday 11/1
+### Friday November 1
 
-* Bus to cable car (we call it a funicular) to “rope way” (what we call a cable car gondola) to boat. Great views of Mt Fuji. Ended in Hakonemachi at the shogun checkpoint museum.
-* Then we walked to MotoHakone and  walked further along the lake. Visited Hakone shrine. 
-* Another amazing Japanese dinner at the hotel, followed by a dip in the onsen. 
+On Friday morning we headed out to catch a bus, to a cable car (which we would
+call a funicular, to a "rope way" (which we would probably call a cable car or
+gondola, and got amazing views of Mt Fuji as we traveled.  The vehicles made
+multiple stops and one could get off and walk around.
 
-### Saturday 11/2
-* Shinkansen to Hiroshima via Shin-Osaka. Had to stand almost the full first leg!
-* Visit to “the wrong municipal manga library “. Interesting how manga is also used for learning. 
-* Hiroshima bomb dome and the park around it. 
-* Unique dry ramen cheap dinner. 
+We passed over a smoking volcanic field -- kind of looks hellish!  It was not
+possible to get off there due to excess volcanic activity.
+
+Ultimately we landed on the shore of Lake Ashi.  We took a boat across the lake
+to Hakonemachi.  There we took a quick look at the "Shogun Checkpoint museum".
+During the Edo period the Shoguns kept a checkpoint at this mountain pass.
+Oddly one of the key reasons for the checkpoint was to ensure that the wives of
+the Daimyo (vassal shoguns of outlying regions) did not escape from Edo (Tokyo)
+where they were being held as hostage to guarantee the fealty of the Daimyo.
+
+We walked along the shore of Lake Ashi to MotoHakone and then continued on.  We
+visited the Hakone shrine there.
+
+Ultimately we grabbed a bus and returned to our hotel.  We visited the Onsen
+(hot bath).  We chose the "private family baths", since we are not too
+interested in public bathing.  Afterwards we we had another amazing Kaiseki
+meal.
 
 ## Hiroshima and Miyajima Island
 
-Next stop -- Hiroshima.  Just one night at the Granvia at Hiroshima
-Station.  The goal is just to see the museum and the sights related
-to the bombing.
+Phase II of our trip -- Hiroshima Area.  The goal is just to see the museum and
+the sights related to the bombing while in Hiroshima, and then visit the lovely
+Miyajima Island nearby.
 
-### Sunday 11/3
-* Hiroshima Peace Memorial Museum. How to even describe?
-* Okonomiyaki pancake in Hiroshima Station. 
-* Train and ferry to Miyajima. Itsukuru shrine. Even better was Daisho temple. 
-* Walking around the town. Guy cleaning his dog’s butt. 
-* 12 course traditional dinner at hotel. 
-* Boat ride at night. All in Japanese but nice to be on the water in the brisk night. 
-* Foot bath in kimono back at the hotel. 
 
-### Monday 11/4
-* Ropeway to Mt Misen. Beautiful views then hiked down. 
-* Back to Hiroshima for Shinkansen to Kyoto. 
-* Hotel Granvia at Kyoto Station. 11 floor outside escalator for Isetan mall at station. 
+### Saturday November 2
+
+Saturday morning we took a taxi to Odawara station and caught the Shinkansen to
+Hiroshima via Shin-Osaka.  Because we did not have a reservation, and it was a
+very busy weekend (due to Culture Day in Japan), we had to stand almost all the
+way to Shin Osaka!  (90 minutes or so).  
+
+When we arrived in Hiroshima we checked into our hotel -- the Granvia at
+Hirohshima station.  We tried to visit the Manga Reading Room but due to a
+miscommunication, ended up in the Manga section of a small public library in
+the suburbs of Hiroshima.  It was interesting to see what those suburbs looked
+like.  We also learned a bit about how popular the Manga form is for reading
+material in Japan.  It can even be used to teach educational topics some times.
+
+That evening we walked in "Peace Memorial Park" and saw the Bomb Dome memorial.
+This is a building right under the epicenter of the blast, which survived and
+is now left in place as a memorial.  Very spooky.
+
+We walked around the area and ended up having dinner at a Mazeman Raman (dry
+raman) place called Okkundo Otemachi.  Was a tiny place but really good and
+cheap and the staff was super nice!  (It's well rated on Trip Advisor BTW.)
+
+### Sunday November 3
+
+We started the day with the Hiroshima Peace Memorial Museum.  Reall, how to
+describe this.  The most similar feeling I can remember is when I've visited
+graphic Holocaust memorials.  The human suffering involved is unimaginable but
+the museum does a good job of causing you to confront this.  Really they manage
+to focus on the importance of peace and show surprisingly little bitterness
+in their exhibits, both human and historical.
+
+Afterwards we ate "Okonomiyaki" pancakes in Hiroshima Station for lunch.  Oko
+is really almost any combination of (normally savory) ingredients, often
+involving noodles and cabbage, often pork (not for us), and egg.  They are
+pervasive and made different ways in different cities.  (We ended up having
+very different Oko in Kyoto with Howard and Hitomi later in the trip.
+
+Next we took the train and then a ferry to Miyajima.  We saw the Itsukuru
+"floating" shrine.  Unbelieveably packed!  Fortunately we were staying on the
+island so we didn't have to leave that night.  We were able to walk around in
+the evening and see the shoreline, and the really amazing Daisho-In temple up
+the hill.  (Probably my favorite Buddhist Temple of the trip.)  Sue loved the
+little Buddha's wearing knitted caps -- which we ended up calling Jewdas
+because their little caps looked like kippot!
+
+Interesting observation:  a guy cleaning his dog's butt.  I mean they are just
+so clean here.
+
+We then had a course traditional dinner at hotel.  Though I'd have to say the
+one at Manatei in Hakone was better.
+
+We had a boat ride at night. All in Japanese but nice to be on the water in the
+brisk night.  Finally back to the hotel for a quick onsen foot bath wearing our
+hotel-provided kimonos. 
+
+### Monday November 4
+
+The next morning we woke up early to get a start before the morning rush of
+tourists arrived.  We took the ropeway to Mt Misen. Really beautiful 360 views.
+We hiked down by way of the Daisho In temple.  Sue got a chance to take like
+100 more shots of the Jewdas...
+
+We then headed back by ferry and train to Hiroshima, and caught the Shinkansen
+to Kyoto.  We arrived at Kyoto Station in the late afternoon and checked in to
+the Granvia hotel at the station.  Very reasonable cost and really probably the
+best "standard" hotel we stayed at on the trip.  We took a trip along the
+11-floor outdoor escalator to see the majestic station and the Isetan
+department store, a quick dinner at the hotel restaurant and then to bed.
 
 ## Kyoto -- and family!
 
-Next we caught the Shinkansen to Kyoto Station -- our final stop being
-6 days in Kyoto with our cousins, Howard and Hitomi Levine.
+So excited about this final phase of our trip.  We get to spend time with Howard and
+Hitomi and see Kyoto through their eyes.
 
-### Tuesday 11/5
+### Tuesday November 5
+
 * Met Howard and Hitomi — breakfast at Ogawa Coffee in Kyoto Station. 
 * Department store opening at Isetan!
 * Fushimi Inari shrine. Series of gates (inspired the “Gates” installations in Central Park)
