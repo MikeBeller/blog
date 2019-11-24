@@ -132,7 +132,8 @@ This wrapped up Tokyo for us.  A great ending to an amazing 5 days.
 
 ## Next Stop, Hakone and the Foot Hills of Mt Fuji
 
-The next phase of our trip was much more rural!
+In the next phase of our trip, we spent time in a more rural area, in the
+foothills of Mt. Fuji.
 
 ### Thursday October 31
 
@@ -255,57 +256,138 @@ department store, a quick dinner at the hotel restaurant and then to bed.
 
 ## Kyoto -- and family!
 
-So excited about this final phase of our trip.  We get to spend time with Howard and
-Hitomi and see Kyoto through their eyes.
+So excited about this final phase of our trip.  We are looking forward to
+spending time with cousins Howard and Hitomi, and getting a chance to see the
+Kyoto area through their eyes.
 
 ### Tuesday November 5
 
-* Met Howard and Hitomi — breakfast at Ogawa Coffee in Kyoto Station. 
-* Department store opening at Isetan!
-* Fushimi Inari shrine. Series of gates (inspired the “Gates” installations in Central Park)
-* Pontocho (Geisha) district 
-* Soba at restaurant in hotel 
-* Huge covered shopping street Teramachi 
-* Dinner at amazing Shabu Shabu place with Wagyu
+On Tuesday morning, Howard and Hitomi came by our hotel, and we had breakfast
+at the Ogawa Coffee in Kyoto Station.  Ogawa has some great coffee!  And they
+also sell something called a "morning set", with hard boiled egg, Portuguese
+style "pan" toast, a small salad, and coffee, all for a low price.  We ended
+up coming here and grabbing this same breakfast every day for the rest of the
+trip!  Never got tired of it really, and I repeat -- the coffee was excellent.
 
-### Wednesday 11/6
-* Met just Howard (Hitomi helping her mom)
-* Went to Kiyomizu Dera temple and did the tunnel walk and walked around. 
-* Yodobashi electronics store 8k tv
-* Togetsu Kyou bridge in Arashiyama. 
-* Iwatayama Park (monkey mountain)
-* Bamboo forest
-* Walked to Hitomi’s mom’s house in the Saga Torimoto neighborhood of Arashiyama and had teppan yaki with amazing Wagyu — Omi beef (Shiga province)
-* Walked back to Saga Arashiyama train station at night with H&H
+The first adventure we had started minutes later.  The Isetan department store
+opens at 10:00AM, and H&H told us "you must come see this -- it's an experience
+you can only have in Japan".  We stood at the glass front door of the store and
+-- at 9:59, employees started running around inside the store.  At precisely
+10:00am the store opened, and as we walked in, dozens of employees bowed,
+greeting us good morning.  As we walked around the departments of the store,
+this was repeated over and over.  Such an unusual experience!
 
-### Thursday 11/7
-* Nara — Todai Ji giant Buddha
-* Horyu Ji — oldest wooden structure. 
-* Chuguji temple. Beautiful smile. 
-* Dinner back in Arashiyama 
+Our next stop was the Fushimi Inari shrine.  A very large and popular Shinto
+shrine -- with hundreds of orange gates.  Sue was reminded of the "Gates"
+installation in Central Park, and we learned that that installation had been
+inspired by this Shrine.
 
-### Friday 11/8
-* Golden Pavilion
-* Buddhist Rock Garden
-* H&H apt. with view of Katsura river and Togetsu Kyou Bridge
-* Onigiri from the convenience store 
-* Train to Osaka
-* MFXX+PC Osaka, Japan
-* Okonomiyaki near Osaka Station 
-* Shopping at Hankyu and Daimaru 
-* Amazing sushi at a place near the station 
+We then walked in the Pontocho (former Geisha) district.  We had lunch at a
+soba restaurant in the basement of a nearby hotel.  Then we headed over to
+Teramachi street -- a covered arcade-style market in the center of town.
 
-### Saturday 11/9
-* Isetan to buy bowls and see skyway
-* Kyoto Railway Museum. Really great!
-* Lunch at Howatd and Hitomi’s. Great tofu!
-* Shopping in Arashiyama near the Togetsu bridge. So crowded!
-* Quick visit to Tenryu-Ji zen temple 
-* Amazing Wagyu dinner at restaurant with H&H
+Later we had dinner at an amazing "Shabu Shabu" restaurant, and I had my first
+taste of Wagyu beef.  The food, and especially the beef, was excellent, and it
+was fun (and beginning to seem typical) to cook the food at our table.
+
+### Wednesday November 6
+
+On Wednesday morning, Howard met us at the hotel.  Hitomi stayed back at her
+mom's house as they were shopping together and preparing for a meal later in
+the day (see next).  
+
+Our first stop was the Buddhist temple Kiyomizu Dera.  Here a new experience
+was walking in a pitch dark tunnel, to simulate being reborn.  (?)
+
+Our next stp was the huge Yodabashi electronics store.  Eight floors of
+electronics including "8K" TV's.  
+
+We then went to H&H's neigborhood -- Arashiyama.  There we walked across the
+Togetsu Kyou bridge (over the Katsura river).  Then to Iwatayama Park (or
+"Monkey Mountain" as Howard calls it).  There we saw so many monkeys playing
+and grooming each other.  They are apparently "research monkeys", but we do
+not know what that means.
+
+From there we walked to, and through, the Bamboo Forest.  A Bamboo Forest right
+in the middle of a suburb!  We then walked through the surrounding neigborhood
+to Hitomi's parents' house in the Saga Torimoto neighborhood.  We got to meet
+Hitomi's mom (her dad lives separately in Osaka most of the time due to work).
+For dinner we had "Teppan Yaki" (cooked on a large griddle in the middle of the
+table).  The food was delicious, and we had more Wagyu beef.  The best "Omi"
+Wagyu.  And the best beef I've ever eaten in my life by far.  I think I am
+spoiled now and wonder whether I will ever eat beef in America again.  I mean,
+I probably will, but it's hard to imagine that I won't compare it to this every
+single time.
+
+Later that night we walked back from the house to Saga Arashiyama train station,
+and took a train straight back to the hotel.
+
+### Thursday November 7
+
+Thursday was a packed trip to Nara.  Howard drove, and we hit the three major
+sites:
+
+* Todai Ji -- the world's largest Buddha.  
+* Horyu Ji -- the world's oldest wooden structure.
+* Chugu-Ji -- the most beautiful smile.  
+
+All around Nara the deer roam wildly.  If you buy "deer crackers", somehow they
+know and come after you very aggressively!
+
+Later that evening we had dinner at a restaurant right in the Saga Torimoto
+neighborhood (I think).  We had our own private room and I think we may have
+been the only customers just then.  A multi-course "Kaiseki" dinner with great
+wine.  So lovely to have a chance to just sit and talk with Howard and Hitomi.
+We really never get tired of it.
+
+### Friday November 8
+
+On Friday we hit a few more key sites in Kyoto.  The "Golden Pavilion" -- a
+Buddhist Temple plated in gold (!!).  In a lovely setting made even lovelier by
+the foliage.  Thence to the Buddhist Rock Garden.
+
+After seeing the sites, we went to Howard and Hitomi's lovely apartment in
+Arashiyama, not far from the Togetsu Kyou Bridge, with a lovely view of the
+bridge and the Katsura river!  
+
+From here we grabbed a train to Osaka.  We had Okonomiyaki in a Kyoto style,
+cooked at our table, as a quick lunch.  Then we went shopping at the Hankyu and
+Daimaru department stores while H&H had a meeting with Hitomi's dad at his
+office. 
+
+Afterwards, we had the absolutely most amazing sushi at a place near the Osaka
+train station.  H&H knew the chef from many visits there in the past, and he
+certainly treated us well.  Certainly the best sushi we have ever had!  Oh no
+-- I think now we will be comparing every sushi meal we have in New York to
+this one.
+
+### Saturday November 9
+
+On Saturday morning we got a late start, and did a bit of shopping for
+souvenirs at Isetan.  While we were there we went out on the "skyway" and saw a
+great view of Kyoto.
+
+Next we went to the Kyoto Railway Museum, run by JR.  Absolutely the most
+amazing railway museum I've ever seen.  Loved it and learned a lot!  Of course
+I could have stayed there all day.
+
+Then we went to H&H's apartment and had an awesome "super fresh tofu" lunch,
+and then went shopping near the Togetsu bridge.  So crowded!  We made a quick
+visit to the Tenryu-Ji zen temple, and then headed over to dinner.
+
+Dinner was an absolutely unbelievable Wagyu beef dinner (sorry Sue you had to
+settle for fish!) at the restaurant rated by Japanese people as the #1 Wagyu
+place in Kyoto.  We sat at a counter and watched as an old man and his family
+prepared our dinner before us.  The beef was exceptional.  This meal together
+was a great way to cap off an amazing six days together!  We are so glad to
+have had the chance to spend time with Howard and Hitomi, both for the amazing
+opportunity to see Japan through their eyes, but also just to be together, and
+deepen our relationships!
 
 ## Time to Head Home
 
-Back on the Shinkansen to Shinagawa and then through to Narita airport
-on the Narita Express.  Trains are amazing in this country!!  Flight home
-was very smooth, but we will miss Japan!
+On Sunday November 10, we said a fond goodbye to Japan.  We headed back on the
+Shinkansen to Shinagawa and then through to Narita airport on the Narita
+Express.  Perfectly on time.  Trains are amazing in this country!!  The flight
+home was very smooth, but we will miss Japan and this amazing experience!
 
