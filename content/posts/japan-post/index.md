@@ -14,17 +14,23 @@ adventures.
 
 ## First Stop -- Tokyo
 
-We flew on Friday evening, 10/25/2019, to Haneda airport.  The flight
-(which was on ANA) took off three hours late for no obvious reason,
-and landed two hours late.  Imagine our shock when, after clearing 
-customs, ANA employees flagged us down and gave us each 15,000 Yen
-(around $150 each) as compensation for a late arrival!
+We flew on Friday evening, 10/25/2019, to Haneda airport.  The flight (which
+was on ANA) took off three hours late for no obvious reason, and landed two
+hours late.  Imagine our shock when, after clearing customs, ANA employees
+flagged us down and gave us each 15,000 Yen (around $150 each) as compensation
+for a late arrival!
 
-As it was nearly midnight on Saturday night, we just went to our hotel
-(the Century Southern Tier, located conveniently at the Shinjuku
-train station), and went to sleep.
+As it was nearly midnight on Saturday night, we just went to our hotel (the
+Century Southern Tier, located conveniently at the Shinjuku train station), and
+went to sleep.
 
 ### Sunday October 27
+
+In the morning -- first thing we did was to open the shades and take a look at
+the view of the area.  The hotel was right above Shinjuku station, the busiest
+train station in the world, serving 3 million people every day!
+
+![shinjuku station](view_from_cst_hotel.jpg)
 
 Our first stop that morning was the Senso-Ji Buddhist temple in the Asakusa
 neighborhood.  We will talk about shrines and temples a lot, so here is a helpful
@@ -35,47 +41,82 @@ to both, usually for different types of life events.
 
 ![senso-ji](senso-ji.jpg)
 
-Then we headed over to the Akihabara neighborhood (the electronics and Manga capital
-of Tokyo) for a free walking tour of the area.  On the way we stopped for "conveyor
-belt sushi".  It cost like $20 for the 2 of us and was some of the best sushi I ever
-remember having!
+Then we headed over to the Akihabara neighborhood (the electronics and Manga
+capital of Tokyo) for a free walking tour of the area.  On the way we stopped
+for "conveyor belt sushi".  It cost like $20 for the 2 of us and was some of
+the best sushi I ever remember having!
+
+![conveyor-sushi](conveyor_belt_sushi.jpg)
 
 Our tour with Hiroshi (the company: Tokyo Localized) was great.  And he was so
 entertaining and informative.  We learned about the general background/history
 of Japan -- including the Edo period (isolationist Shogunate 1603-1860's) and
 the Meiji restoration (1868-).  This put in context the importance of Kyoto
-(emperor's capital) and Tokyo (more the Shogunate's capital).  We also learned
-about more modern stuff, like the origin of Akihabara's connection to
-electronics -- US GI's selling old radio parts post war -- and modern cultural
-phenomena like Maid Cafe's (cafes where the waitresses call you "master" --
-weird), "Otaku" (manga geek) culture, and AKB48 -- the girl band which is more
-like a reality show  Meanwhile we also saw a Shinto shrine (Kanda Myoujin), a
-Confucian temple, had some amazing soft serve ice cream, and ended the tour at
-the statue of the Last Samaurai, in Ueno park.  I would highly recommend this
-tour and the tourguide, too!
+(emperor's capital) and Tokyo (more the Shogunate's capital).
+
+We visited the "Akihabara" neighborhood -- which is known for electronics and
+Manga/Anime.  In this neighborhood we saw many "Otaku" (anime geeks), and we
+learned about AKB48 (look it up -- it's either a girl band or a reality show,
+depending on how you look at it), and the bizarre concept of "Maid Cafe's",
+where the staff dresses like French maids and calls the customer "master".
+Note: customers are men *and* women *and* often whole families!!
+
+![akihabara](akihabara.jpg)
+
+On the tour, we also saw a Shinto shrine (Kanda Myoujin), a Confucian temple,
+and had some amazing soft serve ice cream (not the only time this happened in
+Japan -- and I usually dislike soft serve ice cream).  At Kanda Myoujin, we
+learned about the practice of washing hands, writing wishes on tablets (for a
+fee), getting fortunes, and more importantly: what you do when you receive a
+bad fortune.  The answer is -- twist it around the bad-fortune tree and leave
+it behind!
+
+![bad-fortune](bad_fortune_tree.jpg)
+
+We walked through a shopping street called Ameyoko Ueno (in Ueno) which
+started as the black market immediately post war, but then became a large
+regulated market selling everything.  We ended the tour at the statue of
+the Last Samaurai, in Ueno park.  I would highly recommend this "Tokyo
+Localized" flagship free walking tour and the tourguide, Hiroshi, too!
+
+![ameyoko](ameyoko_ueno.jpg)
 
 ### Monday October 28
 
 We started our day with a walking tour of Meiji-Jinju and Harajuku, led by Emi
 of Tokyo Localized (again).  Started with Meiji shrine — in a beautiful tree
-lined setting.  Then Takeshita Street — crazy street lined with sweet food and
-cute stuff and some goth all seemingly targeted towards Japanese teen girls —
-kind of crazy. Then Yoyogi Park for just a few minutes. 
+lined setting.  
+
+![meiji-jinju](meiji_jinju.jpg)
+
+Here we learned about some of the rituals that Japanese families perform in
+shrines, such as the 3/5/7 ceremonies where they bring their children at the
+ages of 3, 5, and 7.
+
+![meiji357](meiji_3_5_7.jpg)
+
+Then Takeshita Street — crazy street lined with sweet food and cute stuff and
+some goth all seemingly targeted towards Japanese teen girls — kind of crazy.
+
+![takeshita](takeshita_street.jpg)
 
 After the tour, we headed over to the traditional coffee house Chatei Haitou.
 Absolutely amazing coffee!! He used a Kalita Wave, by the way.  Probably the
 best pourover I've ever had.
+
+![best-coffee](best_coffee.jpg)
 
 From there we waked around the Shibuya area -- saw Shibuya Crossing, an amazing
 5-way intersection with waves of people crossing each light.  Next to Shibuya
 Hikarie department store.  Then walked back to our hotel via Yoyogi Park /
 Meiji Jinju.
 
-Dinner at "Udon Shin", a tiny udon place in the back streets of Shibuya.  You
-order before you even get seated.  A great cheap dinner!
+![shibuya-crossing](shibuya_crossing.gif)
 
-That evening we walked over to Tokyu Hands, a multi floor department store with
-one floor dedicated just to crafts and home projects!
+Dinner at "Udon Shin", a tiny udon place in the back streets of Shibuya.  You
+order before you even get seated.  A great cheap dinner!  That evening we
+walked over to Tokyu Hands, a multi floor department store with one floor
+dedicated just to crafts and home projects!
 
 ### Tuesday October 29
 
@@ -85,9 +126,13 @@ her daughter, and a man who was teaching her to perform tea ceremonies.  After
 viewing her work she actually performed a ceremony for us.  It was very
 beautiful!!
 
+![tea-ceremony](tea_ceremony.jpg)
+
 Next stop was the "Borderless Labs" interactive art exhibit.  Very cool
 walk-through-it art.  Back home to the hotel and had sushi on the restaurant
 floor of "Shinjuku Times Square".
+
+![borderless](sue_borderless.jpg)
 
 ###  Wednesday October 30
 
@@ -97,8 +142,8 @@ village, specifically for a ceremony which takes place on the change of
 emperor!  I mean a whole village for one ceremony.
 
 Afterwards we walked to Ginza and saw Sony Square and Ginza crossing. We
-visited Itōya — a 12 floor stationery store!  Bought some cards and had lunch
-at the cafe on top floor. 
+visited Itoya, a 12-floor stationery store!  Bought some cards and had lunch
+at the cafe on top floor.
 
 Then on to Cafe de l’ambre — another "OG" coffee shop of Tokyo. Aged beans
 (!?). The coffee servings were much smaller than Chatei Hatou and the place was
@@ -110,23 +155,36 @@ lands of the Shoguns, and then reverted to the Emperor after the restoration.
 Now it's a public park. In the park there are carefully researched and
 reconstructed tea houses and other buildings. 
 
+![hama-rikyu](hama_rikyu.jpg)
+
 But the highlight of the day was definitely the Night tour of Shinjuku.  First
 Memory Lane AKA "Piss Alley" — yakitori and beer in dozens of tiny places in a
-smoky alley.  Then Kibuki Town  — restaurants mainly with also people outside
-recruiting customers for some other Yakuza-owned places.  Stay away from them! 
+smoky alley.  
 
-Then Red Light District -- we learned about the 5 different kind of sexual
-services mostly legally available: massage, escort, (two others I forget), and
-Soap Houses.  Prostitution is illegal but weirdly this just means money for
-intercourse. Other sex stuff is legal.  
+![piss-alley](piss_alley.jpg)
+
+Then Kabuki Town  — restaurants mainly with also people outside recruiting
+customers for some other Yakuza-owned places.  Stay away from them!  Then Red
+Light District -- we learned about the 5 different kind of sexual services
+mostly legally available: massage, escort, (two others I forget), and Soap
+Houses.  Prostitution is illegal but weirdly this just means money for
+intercourse. Other sex stuff is legal -- and there are even "information
+bureaus" where you can go to find what you want based on your preferences!  
+
+![shinjuku-night](shinjuku_night.jpg)
 
 Then there are host (or hostess) clubs. No sex. Just "girlfriend experience"
-(or boyfriend). Hugely expensive and most famous boy made 2.2M$ in a year. Then
-Love hotels: 2 hours, 6 hours, overnight. Very commonly used by Japanese. Most
-have been for various reasons. Finally Golden Gai — 100 small (ten person)
+(or boyfriend). Hugely expensive and most famous boy made 2.2M$ in a year. 
+
+![host-culture](host_culture.jpg)
+
+Then Love hotels: 2 hours, 6 hours, overnight. Very commonly used by Japanese.
+Most have been for various reasons. Finally Golden Gai — 100 small (ten person)
 themed bars which are pretty much the only place Japanese who are not in the
-same group will speak to each other.  (Otherwise it's considered rude to 
+same group will speak to each other.  (Otherwise it's considered rude to
 "abandon" your friends or co-workers.)
+
+![golden-gai](golden_gai.jpg)
 
 This wrapped up Tokyo for us.  A great ending to an amazing 5 days.
 
@@ -148,10 +206,14 @@ in a beautiful setting in the mountains.  We used buses to get around -- and
 they were amazingly easy to use, with a "SUICA" (IC) card, english
 announcements, and great coverage in google maps.
 
+![open-air](sue_open_air.jpg)
+
 That evening we went back to our hotel, where we were given traditional garb.
 We "dressed for dinner".  We had a private room in the restaurant, and had a
 multi-course (12 courses?) traditional "Kaiseki" meal.  They were very careful
 about our dietary restrictions -- and we could eat absolutely everything!
+
+![manatei](sue_mike_hakone_dinner.jpg)
 
 ### Friday November 1
 
@@ -160,8 +222,12 @@ call a funicular, to a "rope way" (which we would probably call a cable car or
 gondola, and got amazing views of Mt Fuji as we traveled.  The vehicles made
 multiple stops and one could get off and walk around.
 
+![fuji](fuji.jpg)
+
 We passed over a smoking volcanic field -- kind of looks hellish!  It was not
 possible to get off there due to excess volcanic activity.
+
+![hakone-hell](hakone_hell.jpg)
 
 Ultimately we landed on the shore of Lake Ashi.  We took a boat across the lake
 to Hakonemachi.  There we took a quick look at the "Shogun Checkpoint museum".
@@ -170,8 +236,12 @@ Oddly one of the key reasons for the checkpoint was to ensure that the wives of
 the Daimyo (vassal shoguns of outlying regions) did not escape from Edo (Tokyo)
 where they were being held as hostage to guarantee the fealty of the Daimyo.
 
+![hakone-checkpoint](hakone_checkpoint.jpg)
+
 We walked along the shore of Lake Ashi to MotoHakone and then continued on.  We
 visited the Hakone shrine there.
+
+![motohakone](motohakone.jpg)
 
 Ultimately we grabbed a bus and returned to our hotel.  We visited the Onsen
 (hot bath).  We chose the "private family baths", since we are not too
