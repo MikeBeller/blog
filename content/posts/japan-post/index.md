@@ -263,15 +263,20 @@ very busy weekend (due to Culture Day in Japan), we had to stand almost all the
 way to Shin Osaka!  (90 minutes or so).  
 
 When we arrived in Hiroshima we checked into our hotel -- the Granvia at
-Hirohshima station.  We tried to visit the Manga Reading Room but due to a
-miscommunication, ended up in the Manga section of a small public library in
-the suburbs of Hiroshima.  It was interesting to see what those suburbs looked
-like.  We also learned a bit about how popular the Manga form is for reading
-material in Japan.  It can even be used to teach educational topics some times.
+Hirohshima station.  We had heard of a site called the "Manga Reading Room" and
+tried to visit it, but due to a misread of Google Maps, ended up in the Manga
+section of a small public library in the suburbs of Hiroshima.  But it was
+interesting to travel through and see what those suburbs looked like.  We also
+learned a bit about how popular the Manga form is for reading material in
+Japan.  It is even used to teach educational topics sometimes.
+
+![manga](educational_manga.jpg)
 
 That evening we walked in "Peace Memorial Park" and saw the Bomb Dome memorial.
 This is a building right under the epicenter of the blast, which survived and
 is now left in place as a memorial.  Very spooky.
+
+![bomb-dome](bomb_dome.jpg)
 
 We walked around the area and ended up having dinner at a Mazeman Raman (dry
 raman) place called Okkundo Otemachi.  Was a tiny place but really good and
@@ -286,6 +291,8 @@ the museum does a good job of causing you to confront this.  Really they manage
 to focus on the importance of peace and show surprisingly little bitterness
 in their exhibits, both human and historical.
 
+![hiroshima](hiroshima_museum.jpg)
+
 Afterwards we ate "Okonomiyaki" pancakes in Hiroshima Station for lunch.  Oko
 is really almost any combination of (normally savory) ingredients, often
 involving noodles and cabbage, often pork (not for us), and egg.  They are
@@ -293,29 +300,43 @@ pervasive and made different ways in different cities.  (We ended up having
 very different Oko in Kyoto with Howard and Hitomi later in the trip.
 
 Next we took the train and then a ferry to Miyajima.  We saw the Itsukuru
-"floating" shrine.  Unbelieveably packed!  Fortunately we were staying on the
-island so we didn't have to leave that night.  We were able to walk around in
-the evening and see the shoreline, and the really amazing Daisho-In temple up
-the hill.  (Probably my favorite Buddhist Temple of the trip.)  Sue loved the
-little Buddha's wearing knitted caps -- which we ended up calling Jewdas
-because their little caps looked like kippot!
+"floating" shrine.  Unbelieveably packed!  
 
-Interesting observation:  a guy cleaning his dog's butt.  I mean they are just
-so clean here.
+![itsukuru](itsukuru.jpg)
+
+Fortunately we were staying on the island so we didn't have to leave that
+night, which meant we were able to stick around til things quieted down.  We
+walked around in the evening along the shoreline.  Interesting observation:  a
+guy cleaning his dog's butt.  I mean they are just so clean here.
+
+![miyajima](miyajima_shore.jpg)
+
+Next we went up the hill toward the really amazing Daisho-In temple up the
+hill.  (Probably my favorite Buddhist Temple of the trip.)  
+
+![daisho-in](daisho_in_lights.jpg)
+
+Sue loved the little Buddha's wearing knitted caps -- which we ended up calling
+Jewdas because their little caps looked like kippot!
+
+![jewdas](the_jewdas.jpg)
 
 We then had a course traditional dinner at hotel.  Though I'd have to say the
-one at Manatei in Hakone was better.
-
-We had a boat ride at night. All in Japanese but nice to be on the water in the
-brisk night.  Finally back to the hotel for a quick onsen foot bath wearing our
-hotel-provided kimonos. 
+one at Manatei in Hakone was better.  We had a boat ride at night. All in
+Japanese but nice to be on the water in the brisk night.  Finally back to the
+hotel for a quick onsen foot bath wearing our hotel-provided kimonos. 
 
 ### Monday November 4
 
 The next morning we woke up early to get a start before the morning rush of
 tourists arrived.  We took the ropeway to Mt Misen. Really beautiful 360 views.
+
+![miyajima-peak](sue_mike_miyajima.jpg)
+
 We hiked down by way of the Daisho In temple.  Sue got a chance to take like
-100 more shots of the Jewdas...
+100 more shots of the Jewdas.
+
+![more-jewdas](more_jewdas.jpg)
 
 We then headed back by ferry and train to Hiroshima, and caught the Shinkansen
 to Kyoto.  We arrived at Kyoto Station in the late afternoon and checked in to
@@ -326,9 +347,9 @@ department store, a quick dinner at the hotel restaurant and then to bed.
 
 ## Kyoto -- and family!
 
-So excited about this final phase of our trip.  We are looking forward to
-spending time with cousins Howard and Hitomi, and getting a chance to see the
-Kyoto area through their eyes.
+By now we had had some amazing adventures and were very excited for the final
+phase of our trip: a chance to spend time with cousins Howard and Hitomi
+Levine, and getting a chance to see the Kyoto area through their eyes.
 
 ### Tuesday November 5
 
@@ -352,6 +373,8 @@ shrine -- with hundreds of orange gates.  Sue was reminded of the "Gates"
 installation in Central Park, and we learned that that installation had been
 inspired by this Shrine.
 
+![fushimi-inari](howard_hitomi_fushimi_inari.jpg)
+
 We then walked in the Pontocho (former Geisha) district.  We had lunch at a
 soba restaurant in the basement of a nearby hotel.  Then we headed over to
 Teramachi street -- a covered arcade-style market in the center of town.
@@ -359,6 +382,8 @@ Teramachi street -- a covered arcade-style market in the center of town.
 Later we had dinner at an amazing "Shabu Shabu" restaurant, and I had my first
 taste of Wagyu beef.  The food, and especially the beef, was excellent, and it
 was fun (and beginning to seem typical) to cook the food at our table.
+
+![shabu-shabu](shabu_shabu.jpg)
 
 ### Wednesday November 6
 
@@ -378,16 +403,23 @@ Togetsu Kyou bridge (over the Katsura river).  Then to Iwatayama Park (or
 and grooming each other.  They are apparently "research monkeys", but we do
 not know what that means.
 
+![monkey-mountain](monkey_mountain.jpg)
+
 From there we walked to, and through, the Bamboo Forest.  A Bamboo Forest right
-in the middle of a suburb!  We then walked through the surrounding neigborhood
-to Hitomi's parents' house in the Saga Torimoto neighborhood.  We got to meet
-Hitomi's mom (her dad lives separately in Osaka most of the time due to work).
-For dinner we had "Teppan Yaki" (cooked on a large griddle in the middle of the
-table).  The food was delicious, and we had more Wagyu beef.  The best "Omi"
-Wagyu.  And the best beef I've ever eaten in my life by far.  I think I am
-spoiled now and wonder whether I will ever eat beef in America again.  I mean,
-I probably will, but it's hard to imagine that I won't compare it to this every
-single time.
+in the middle of a suburb!  
+
+![bamboo-forest](bamboo_forest.jpg)
+
+We then walked through the surrounding neigborhood to Hitomi's parents' house
+in the Saga Torimoto neighborhood.  We got to meet Hitomi's mom (her dad lives
+separately in Osaka most of the time due to work).  For dinner we had "Teppan
+Yaki" (cooked on a large griddle in the middle of the table).  The food was
+delicious, and we had more Wagyu beef.  The best "Omi" Wagyu.  And the best
+beef I've ever eaten in my life by far.  I think I am spoiled now and wonder
+whether I will ever eat beef in America again.  I mean, I probably will, but
+it's hard to imagine that I won't compare it to this every single time.
+
+![hitomis-house](hitomis_house.jpg)
 
 Later that night we walked back from the house to Saga Arashiyama train station,
 and took a train straight back to the hotel.
@@ -399,10 +431,14 @@ sites:
 
 * Todai Ji -- the world's largest Buddha.  
 * Horyu Ji -- the world's oldest wooden structure.
-* Chugu-Ji -- the most beautiful smile.  
+* Chugu-Ji -- the "Mona Lisa" of Japan in an ancient temple.
+
+![big-buddha](big_buddha.jpg)
 
 All around Nara the deer roam wildly.  If you buy "deer crackers", somehow they
 know and come after you very aggressively!
+
+![deer](nara_deer.jpg)
 
 Later that evening we had dinner at a restaurant right in the Saga Torimoto
 neighborhood (I think).  We had our own private room and I think we may have
@@ -416,9 +452,15 @@ On Friday we hit a few more key sites in Kyoto.  The "Golden Pavilion" -- a
 Buddhist Temple plated in gold (!!).  In a lovely setting made even lovelier by
 the foliage.  Thence to the Buddhist Rock Garden.
 
+![golden-pavilion](golden_pavilion.jpg)
+
+![rock-garden](rock_garden.jpg)
+
 After seeing the sites, we went to Howard and Hitomi's lovely apartment in
 Arashiyama, not far from the Togetsu Kyou Bridge, with a lovely view of the
 bridge and the Katsura river!  
+
+![apt](h_and_h_apartment.jpg)
 
 From here we grabbed a train to Osaka.  We had Okonomiyaki in a Kyoto style,
 cooked at our table, as a quick lunch.  Then we went shopping at the Hankyu and
@@ -437,22 +479,33 @@ On Saturday morning we got a late start, and did a bit of shopping for
 souvenirs at Isetan.  While we were there we went out on the "skyway" and saw a
 great view of Kyoto.
 
+![isetan](isetan_kyoto_station.jpg)
+
 Next we went to the Kyoto Railway Museum, run by JR.  Absolutely the most
 amazing railway museum I've ever seen.  Loved it and learned a lot!  Of course
 I could have stayed there all day.
+
+![railway-museum](railway_museum.jpg)
 
 Then we went to H&H's apartment and had an awesome "super fresh tofu" lunch,
 and then went shopping near the Togetsu bridge.  So crowded!  We made a quick
 visit to the Tenryu-Ji zen temple, and then headed over to dinner.
 
+![tenryu-ji](tenryu_ji.jpg)
+
 Dinner was an absolutely unbelievable Wagyu beef dinner (sorry Sue you had to
 settle for fish!) at the restaurant rated by Japanese people as the #1 Wagyu
 place in Kyoto.  We sat at a counter and watched as an old man and his family
-prepared our dinner before us.  The beef was exceptional.  This meal together
-was a great way to cap off an amazing six days together!  We are so glad to
-have had the chance to spend time with Howard and Hitomi, both for the amazing
-opportunity to see Japan through their eyes, but also just to be together, and
-deepen our relationships!
+prepared our dinner before us.  The beef was exceptional.
+
+![wagyu](wagyu.jpg)
+
+This meal together was a great way to cap off an amazing six days together!  We
+are so glad to have had the chance to spend time with Howard and Hitomi, both
+for the amazing opportunity to see Japan through their eyes, but also just to
+be together, and deepen our relationships!
+
+![all](all_four_of_us.jpg)
 
 ## Time to Head Home
 
