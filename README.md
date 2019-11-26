@@ -1,6 +1,10 @@
 # How to Rebuild
 
-Edit posts in content/posts/...
+Clone the repo using --recurse-submodules
+
+    git clone --recurse-submodules git@github.com:MikeBeller/blog.git
+
+Edit posts in content/posts/...  (See hugo documentation).
 
 ```
     # in blog directory
