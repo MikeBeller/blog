@@ -155,7 +155,7 @@ lands of the Shoguns, and then reverted to the Emperor after the restoration.
 Now it's a public park. In the park there are carefully researched and
 reconstructed tea houses and other buildings. 
 
-![hama-rikyu](hama_rikyu.jpg)
+![hama-rikyu](hamarikyu_tree.jpg)
 
 But the highlight of the day was definitely the Night tour of Shinjuku.  First
 Memory Lane AKA "Piss Alley" — yakitori and beer in dozens of tiny places in a
@@ -205,6 +205,20 @@ Museum.  Many really great sculptures including a whole Picasso section.  All
 in a beautiful setting in the mountains.  We used buses to get around -- and
 they were amazingly easy to use, with a "SUICA" (IC) card, english
 announcements, and great coverage in google maps.
+
+The scale of the garden, and it's magnificent setting, is breathtaking.
+
+![outdoor-panorama](outdoor_panorama.jpg)
+
+This is just one of so many really outstanding sculptures:
+
+![outdoor-guy](outdoor_guy.jpg)
+
+If you go, definitely climb the stunning stained glass tower:
+
+![outdoor-tower](outdoor_tower.jpg)
+
+We really loved this place!
 
 ![open-air](sue_open_air.jpg)
 
@@ -331,12 +345,12 @@ hotel for a quick onsen foot bath wearing our hotel-provided kimonos.
 The next morning we woke up early to get a start before the morning rush of
 tourists arrived.  We took the ropeway to Mt Misen. Really beautiful 360 views.
 
-![miyajima-peak](sue_mike_miyajima.jpg)
+![miyajima-peak](miyajima_view.jpg)
 
 We hiked down by way of the Daisho In temple.  Sue got a chance to take like
 100 more shots of the Jewdas.
 
-![more-jewdas](more_jewdas.jpg)
+![more-jewdas](sleeping_jewda.jpg)
 
 We then headed back by ferry and train to Hiroshima, and caught the Shinkansen
 to Kyoto.  We arrived at Kyoto Station in the late afternoon and checked in to
@@ -359,6 +373,8 @@ also sell something called a "morning set", with hard boiled egg, Portuguese
 style "pan" toast, a small salad, and coffee, all for a low price.  We ended
 up coming here and grabbing this same breakfast every day for the rest of the
 trip!  Never got tired of it really, and I repeat -- the coffee was excellent.
+
+![ogawa-breakfast](ogawa_breakfast.jpg)
 
 The first adventure we had started minutes later.  The Isetan department store
 opens at 10:00AM, and H&H told us "you must come see this -- it's an experience
@@ -433,7 +449,7 @@ sites:
 * Horyu Ji -- the world's oldest wooden structure.
 * Chugu-Ji -- the "Mona Lisa" of Japan in an ancient temple.
 
-![big-buddha](big_buddha.jpg)
+![big-buddha](all_four_big_buddha.jpg)
 
 All around Nara the deer roam wildly.  If you buy "deer crackers", somehow they
 know and come after you very aggressively!
